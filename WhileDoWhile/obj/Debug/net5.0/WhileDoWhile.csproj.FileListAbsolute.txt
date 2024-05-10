@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\WhileDoWhile.exe
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\WhileDoWhile.deps.json
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\WhileDoWhile.runtimeconfig.json
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\WhileDoWhile.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\WhileDoWhile.dll
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\ref\WhileDoWhile.dll
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\bin\Debug\net5.0\WhileDoWhile.pdb
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.dll
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\ref\WhileDoWhile.dll
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.pdb
+C:\Users\Hossein\source\repos\WhileDoWhile\WhileDoWhile\obj\Debug\net5.0\WhileDoWhile.genruntimeconfig.cache
